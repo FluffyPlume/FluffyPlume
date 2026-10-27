@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-  <h3>Hi there, I'm FluffyPlume! 👋</h3>
-  <b>Aspiring Data Engineer | Computer Science Student | The Herta Fan 🌀</b>
+  <h3>Hi there, I'm FluffyPlume! </h3>
+  <b>Aspiring Data Engineer | Computer Science Student | The Herta Fan </b>
 </p>
 
 <br>
-
 ### 💫 About Me:
 
 - 🔭 I'm currently working on building data pipelines & studying Computer Science
