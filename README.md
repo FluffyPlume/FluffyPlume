@@ -1,7 +1,9 @@
 # 💫 About Me:
+# Hi there, I'm FluffyPlume! 
+### Aspiring Data Engineer | Computer Science Student | The Herta Fan
 
 <p align="center">
-  <img src="./assets/the_herta.gif" width="220px" alt="The Herta" />
+  <img src="./assets/the_Herta.gif" width="220px" alt="The Herta" />
 </p>
 
 - 🔭 I'm currently working on building data pipelines & studying Computer Science
