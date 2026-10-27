@@ -1,10 +1,15 @@
-# 💫 About Me:
-# Hi there, I'm FluffyPlume! 
-### Aspiring Data Engineer | Computer Science Student | The Herta Fan
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FluffyPlume/FluffyPlume/main/assets/the_Herta.gif" width="450px" alt="The Herta" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FluffyPlume/FluffyPlume/main/assets/the_Herta.gif" width="220px" alt="The Herta" />
+  <h3>Hi there, I'm FluffyPlume! </h3>
+  <b>Aspiring Data Engineer | Computer Science Student | The Herta Fan </b>
 </p>
+
+<br>
+
+### 💫 About Me:
 
 - 🔭 I'm currently working on building data pipelines & studying Computer Science
 - 👯 I'm looking to collaborate on open-source data engineering projects
